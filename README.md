@@ -1,2 +1,2 @@
-# off-grid-auto-irrigation
-An off-grid automated pulse irrigation system built with Arduino for drought-resilient agriculture 
+# Off-Grid-Automated-Sustainable-Irrigation 
+An off-grid automated sustainable irrigation system built with Arduino for drought-resilient agriculture 
