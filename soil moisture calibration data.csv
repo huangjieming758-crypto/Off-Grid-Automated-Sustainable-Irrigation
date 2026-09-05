@@ -1,0 +1,14 @@
+Label,Sample #,Time(s),Raw Moisture Value,Status 
+Air Value,1,1,649,Free Air
+Air Value,2,2,649,Free Air
+Air Value,3,3,649,Free Air
+Air Value,4,4,649,Free Air
+Air Value,5,5,649,Free Air
+Average ,1-5,1-5,649,Calculated Mean
+,,,,
+Water Value,1,61,304,Submerged
+Water Value,2,62,304,Submerged
+Water Value,3,63,304,Submerged
+Water Value,4,64,304,Submerged
+Water Value,5,65,304,Submerged
+Average,1-5,61-65,304,Calculated Mean
